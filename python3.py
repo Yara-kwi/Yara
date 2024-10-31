@@ -9,5 +9,4 @@ def group_names_by_age(tuples_list):
         else:
             age_dict[age]=[name]
     return age_dict
-group_names_by_age(tuples_list)
-print(result)
+print(group_names_by_age(tuples_list))
