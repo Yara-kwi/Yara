@@ -5,6 +5,6 @@ def strings_to_lengths(strings):
     return lengths_dict
 strings_list= ["yara","bish","moon"]
 result=" "
-strings_to_lengths(strings_list)
-print(result)
+print(strings_to_lengths(strings_list))
+
     
